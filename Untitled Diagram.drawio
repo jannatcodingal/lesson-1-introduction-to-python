@@ -16,7 +16,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cfesc5ldZ6rkKSOXcKPR-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="cfesc5ldZ6rkKSOXcKPR-3" value="number divisible by 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="160" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cfesc5ldZ6rkKSOXcKPR-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
